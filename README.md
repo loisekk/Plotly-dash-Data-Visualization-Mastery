@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly Logo" width="100"/>
+
 # 📈 60-Day Plotly Challenge
 
 ### Day 01 — The Figure Data Structure
