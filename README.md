@@ -4,8 +4,6 @@
 
 # 📈 60-Day Plotly Challenge
 
-### Day 01 — The Figure Data Structure
-
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.x-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-2.x-00B4D8?style=for-the-badge&logo=plotly&logoColor=white)
@@ -166,7 +164,7 @@ Topics covered across the challenge:
 
 <div align="center">
 
-**Day 01 / 60 complete.**
+
 
 Made with 🔥 by [Yash Brahmankar](https://github.com/loisekk)
 
